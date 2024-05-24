@@ -4,7 +4,7 @@
 0.0.0.0 bbci.co.uk
 0.0.0.0 bbc.in
 0.0.0.0 bbcmedia.co.uk
-bbc.net.uk
+0.0.0.0 bbc.net.uk
 0.0.0.0 bbcnews.com
 0.0.0.0 bbcpersian.com
 0.0.0.0 bbctvapps.co.uk
