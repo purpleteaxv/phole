@@ -1,0 +1,18 @@
+0.0.0.0 a1-api-bbc-co-uk-cddc.at-o.net
+0.0.0.0 bbc.com
+0.0.0.0 bbc.co.uk
+0.0.0.0 bbci.co.uk
+0.0.0.0 bbc.in
+0.0.0.0 bbcmedia.co.uk
+bbc.net.uk
+0.0.0.0 bbcnews.com
+0.0.0.0 bbcpersian.com
+0.0.0.0 bbctvapps.co.uk
+0.0.0.0 bbcverticals.com
+0.0.0.0 search.bbc.co.uk
+0.0.0.0 emp.bbci.co.uk
+0.0.0.0 session.bbc.com
+0.0.0.0 account.bbc.com
+0.0.0.0 ssc.api.bbc.com
+0.0.0.0 shop.bbc.com
+0.0.0.0 search.files.bbci.co.uk
